@@ -137,12 +137,12 @@ p {
 }
 
 .devcard {
-  opacity: 60%;
+  /* opacity: 80%; */
 }
 
 .holopin-badges {
   border-radius: 20px;
-  opacity: 60%;
+  /* opacity: 80%; */
 }
 
 .form-control {
